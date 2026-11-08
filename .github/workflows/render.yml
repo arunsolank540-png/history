@@ -18,28 +18,17 @@ jobs:
         with:
           node-version: 22
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Install Python Audio Requirements
-        run: |
-          pip install numpy scipy
-
-      - name: Verify Chrome and FFmpeg
+      - name: Verify Pre-installed Chrome and FFmpeg
         run: |
           google-chrome --version
           ffmpeg -version
 
-      - name: Render MP4 Video (Headless Chrome + FFmpeg)
+      - name: Render MP4 Video (Headless Chrome + Three.js + FFmpeg)
         env:
           SOFTWARE_GL: 1
         run: |
           cd coffee-king
           node tools/capture.mjs check
-          node tools/capture.mjs cues
-          python tools/mix.py .
           node tools/capture.mjs video renders/coffee-king.mp4
 
       - name: Upload Video Artifact
