@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local cache & model weights (large binaries)
+.faceless-shorts/
+*.onnx
+*.bin
+
+# Temporary and render outputs
+/renders/*.mp4
+!/renders/.gitkeep
+/review/
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db

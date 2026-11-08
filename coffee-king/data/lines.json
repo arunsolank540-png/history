@@ -1,0 +1,97 @@
+{
+ "duration": 50.052,
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "In seventeen forty-six, the King of Sweden decided coffee was a deadly poison,",
+   "start": 0.35,
+   "end": 5.77
+  },
+  {
+   "i": 1,
+   "text": "so he banned every single cup in the country.",
+   "start": 6.34,
+   "end": 8.871
+  },
+  {
+   "i": 2,
+   "text": "When citizens kept brewing it in secret,",
+   "start": 9.091,
+   "end": 11.021
+  },
+  {
+   "i": 3,
+   "text": "he launched the weirdest royal experiment in history.",
+   "start": 11.521,
+   "end": 14.605
+  },
+  {
+   "i": 4,
+   "text": "He found two identical twin prisoners on death row,",
+   "start": 14.825,
+   "end": 18.592
+  },
+  {
+   "i": 5,
+   "text": "and offered them a strange royal pardon:",
+   "start": 18.592,
+   "end": 20.715
+  },
+  {
+   "i": 6,
+   "text": "their sentences were commuted,",
+   "start": 21.366,
+   "end": 22.796
+  },
+  {
+   "i": 7,
+   "text": "as long as one drank three pots of coffee every day,",
+   "start": 23.285,
+   "end": 26.405
+  },
+  {
+   "i": 8,
+   "text": "while his brother drank three pots of tea.",
+   "start": 26.905,
+   "end": 29.085
+  },
+  {
+   "i": 9,
+   "text": "Two royal doctors were ordered to watch them closely,",
+   "start": 29.305,
+   "end": 32.125
+  },
+  {
+   "i": 10,
+   "text": "waiting for the coffee drinker to drop dead.",
+   "start": 32.635,
+   "end": 35.034
+  },
+  {
+   "i": 11,
+   "text": "Except... both doctors died of old age first.",
+   "start": 35.254,
+   "end": 38.144
+  },
+  {
+   "i": 12,
+   "text": "Then the King himself was assassinated.",
+   "start": 38.364,
+   "end": 40.597
+  },
+  {
+   "i": 13,
+   "text": "Decades later, the tea drinker passed away at eighty-three,",
+   "start": 40.817,
+   "end": 44.067
+  },
+  {
+   "i": 14,
+   "text": "leaving the coffee drinker alive, happily sipping his daily brew.",
+   "start": 44.537,
+   "end": 48.502
+  }
+ ]
+}

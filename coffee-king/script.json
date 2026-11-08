@@ -1,0 +1,31 @@
+{
+  "title": "The King Who Tried to Prove Coffee Was Poison",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.35,
+  "outro": 1.2,
+  "gap": 0.22,
+  "music": "bounce",
+  "sources": [
+    "Swedish National Archives, 'Gustav III's coffee experiment' (King Adolf Frederick issued royal decrees against coffee in 1746; Gustav III conducted the clinical trial on twin prisoners condemned to death)",
+    "Mark Pendergrast, 'Uncommon Grounds: The History of Coffee and How It Transformed Our World'",
+    "The Lancet / medical histories of early Swedish clinical trials"
+  ],
+  "lines": [
+    { "text": "In seventeen forty-six, the King of Sweden decided coffee was a deadly poison," },
+    { "text": "so he banned every single cup in the country." },
+    { "text": "When citizens kept brewing it in secret," },
+    { "text": "he launched the weirdest royal experiment in history." },
+    { "text": "He found two identical twin prisoners on death row," },
+    { "text": "and offered them a strange royal pardon:" },
+    { "text": "their sentences were commuted," },
+    { "text": "as long as one drank three pots of coffee every day," },
+    { "text": "while his brother drank three pots of tea." },
+    { "text": "Two royal doctors were ordered to watch them closely," },
+    { "text": "waiting for the coffee drinker to drop dead." },
+    { "text": "Except... both doctors died of old age first." },
+    { "text": "Then the King himself was assassinated." },
+    { "text": "Decades later, the tea drinker passed away at eighty-three,", "caps": "Decades | later, | the tea | drinker | passed away | at 83," },
+    { "text": "leaving the coffee drinker alive, happily sipping his daily brew.", "gap": 0.35 }
+  ]
+}
