@@ -18,7 +18,12 @@ jobs:
         with:
           node-version: 22
 
-      - name: Verify Pre-installed Chrome and FFmpeg
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+
+      - name: Verify Chrome and FFmpeg
         run: |
           google-chrome --version
           ffmpeg -version
