@@ -31,6 +31,8 @@ jobs:
       - name: Render MP4 Video (Headless Chrome + Three.js + FFmpeg)
         env:
           SOFTWARE_GL: 1
+          QS: '&res=0.7&aa=0&shadow=1024'
+          FPS: 24
         run: |
           cd coffee-king
           node tools/capture.mjs check
