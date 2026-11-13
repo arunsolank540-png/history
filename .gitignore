@@ -13,9 +13,9 @@ __pycache__/
 *.bin
 
 # Temporary and render outputs
-/renders/*.mp4
-!/renders/.gitkeep
-/review/
+**/renders/*.mp4
+!**/renders/.gitkeep
+**/review/
 *.log
 
 # OS generated

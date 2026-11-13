@@ -1,0 +1,173 @@
+{
+ "duration": 63.191,
+ "cues": [
+  {
+   "t": 0.1,
+   "type": "whoosh",
+   "gain": 0.6
+  },
+  {
+   "t": 5.15,
+   "type": "ding",
+   "gain": 0.8
+  },
+  {
+   "t": 6.21,
+   "type": "whoosh"
+  },
+  {
+   "t": 7.825,
+   "type": "pop",
+   "gain": 1
+  },
+  {
+   "t": 8.773,
+   "type": "whoosh"
+  },
+  {
+   "t": 10.92,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 11.405,
+   "type": "whoosh"
+  },
+  {
+   "t": 12.482,
+   "type": "ding",
+   "gain": 0.6
+  },
+  {
+   "t": 13.285,
+   "type": "whoosh"
+  },
+  {
+   "t": 14.549,
+   "type": "thud",
+   "gain": 1
+  },
+  {
+   "t": 16.649,
+   "type": "whoosh"
+  },
+  {
+   "t": 19.062,
+   "type": "pop",
+   "gain": 0.7
+  },
+  {
+   "t": 19.805,
+   "type": "whoosh"
+  },
+  {
+   "t": 20.344,
+   "type": "ding",
+   "gain": 0.7
+  },
+  {
+   "t": 22.731,
+   "type": "whoosh"
+  },
+  {
+   "t": 23.896,
+   "type": "slam",
+   "gain": 1
+  },
+  {
+   "t": 25.868,
+   "type": "ding",
+   "gain": 0.8
+  },
+  {
+   "t": 26.881,
+   "type": "whoosh"
+  },
+  {
+   "t": 28.841,
+   "type": "ding",
+   "gain": 0.8
+  },
+  {
+   "t": 29.385,
+   "type": "whoosh"
+  },
+  {
+   "t": 30.069,
+   "type": "pop",
+   "gain": 0.8
+  },
+  {
+   "t": 33.4,
+   "type": "whoosh"
+  },
+  {
+   "t": 34.8,
+   "type": "ding",
+   "gain": 0.6
+  },
+  {
+   "t": 37.03,
+   "type": "whoosh"
+  },
+  {
+   "t": 38.105,
+   "type": "whoosh",
+   "gain": 1
+  },
+  {
+   "t": 39.449,
+   "type": "whoosh"
+  },
+  {
+   "t": 42.389,
+   "type": "thud",
+   "gain": 1
+  },
+  {
+   "t": 43.043,
+   "type": "whoosh"
+  },
+  {
+   "t": 45.364,
+   "type": "ding",
+   "gain": 0.9
+  },
+  {
+   "t": 46.213,
+   "type": "whoosh"
+  },
+  {
+   "t": 48.441,
+   "type": "pop",
+   "gain": 0.7
+  },
+  {
+   "t": 49.143,
+   "type": "whoosh"
+  },
+  {
+   "t": 51.246,
+   "type": "ding",
+   "gain": 0.7
+  },
+  {
+   "t": 52.045,
+   "type": "whoosh"
+  },
+  {
+   "t": 54.867,
+   "type": "ding",
+   "gain": 0.8
+  },
+  {
+   "t": 57.265,
+   "type": "whoosh"
+  },
+  {
+   "t": 61.226,
+   "type": "ding",
+   "gain": 1
+  }
+ ]
+}

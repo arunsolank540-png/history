@@ -1,0 +1,34 @@
+{
+  "title": "The Shape That Saved Roller Coaster Loops",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.35,
+  "outro": 1.2,
+  "gap": 0.22,
+  "music": "bounce",
+  "sources": [
+    "Coney Island History Project, 'Flip Flap Railway' (1895 circular loop created 12 Gs)",
+    "Scientific American, 'Why Roller Coaster Loops Are Never Round' (The clothoid loop / teardrop curve)",
+    "Amusement Park Physics by Nathan A. Unterman"
+  ],
+  "lines": [
+    { "text": "In eighteen ninety-five, engineers built the world's first upside-down roller coaster,", "caps": "In 1895, | engineers | built | the first | upside-down | coaster," },
+    { "text": "and it nearly snapped riders' necks in half." },
+    { "text": "See, they designed the loop as a perfect circle." },
+    { "text": "Which looked clean on paper," },
+    { "text": "but created a brutal twelve Gs of force at the bottom.", "caps": "but created | a brutal | 12 Gs | of force | at the bottom." },
+    { "text": "Riders were blacking out and leaving in ambulances." },
+    { "text": "So two rival park builders raced to fix it." },
+    { "text": "One builder grabbed a hammer and bent the track into a tall teardrop," },
+    { "text": "making the bottom curve wide and gentle." },
+    { "text": "His rival laughed, calling the skinny loop completely dangerous." },
+    { "text": "He strapped a wooden test dummy into his own circular loop," },
+    { "text": "and sent the cart flying down the track." },
+    { "text": "At the bottom, the dummy was instantly crushed into splinters." },
+    { "text": "Meanwhile, the teardrop loop worked like magic:" },
+    { "text": "it kept the curve wide where the cart was fast," },
+    { "text": "and sharp at the top where the cart slowed down." },
+    { "text": "Which is why today, every looping coaster on Earth uses that bent teardrop," },
+    { "text": "saving millions of riders from twelve Gs of neck-snapping force.", "caps": "saving | millions | from | 12 Gs | of force.", "gap": 0.35 }
+  ]
+}
